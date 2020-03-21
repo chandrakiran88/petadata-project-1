@@ -10,7 +10,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.petadata</groupId>
-	<artifactId>spring-boot-example2</artifactId>
+	<artifactId>spring-boot-example3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Electro-Store-Web-Application-1</name>
 	<description>a new project for Spring Boot</description> 
